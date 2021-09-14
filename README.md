@@ -1,4 +1,4 @@
-# Hello IS601 Fall 2021
+# Hello IS601 Fall 2021- Edgardo Guillen
 ## This is the introduction to GIT Source Code Management
 This is part of my first IS601 assignment
 ## Hello 
