@@ -9,7 +9,7 @@ This is part of my first IS601 assignment
 -Making someChanges to Readme file
 
 # Hi this is Sabina
-Completed a fork
+##Completed a fork, commits and branches
 #This is a screenshot showing the entire repository (IS601-online-f21)
 ![Repository_Git_Introduction_Assignment1](Repository_Git_Introduction_Assigment1.jpg)
 #This is screenshot for Commits
